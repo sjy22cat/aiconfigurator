@@ -1,3 +1,7 @@
+# 3D-TokSIM Visual Blueprint
+
+This document records the finalized visual blueprint prompt for rendering the 3D-TokSIM architecture diagram. The prompt is enclosed between BEGIN/END markers so it can be copied directly into an image-generation workflow without additional formatting.
+
 ---BEGIN PROMPT---
 
 [Visual Schema Blueprint]
@@ -44,7 +48,7 @@ Key Text Labels (to render inside image): "Controller", "Verified Output Token"
 
 Connections (to render as arrows/lines):
 
-A thick bundle of parallel, straight, Coral Orange arrows flows down from the bottom of the TSVs in Zone 1 into the Drafting CIM block in Zone 2. Label this arrow bundle: "High-BW Parallel Access".
+A thick bundle of parallel, straight, Coral Orange arrows flows down from the bottom of the TSVs in Zone 1 into the Drafting CIM block in Zone 2. Label this arrow bundle: "High-Bandwidth Parallel Access".
 
 A solid Mint Green arrow flows from the Input Buffer to the Drafting CIM.
 
